@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "name": "lerna-test-pkg1",
+  "dependencies": {},
+  "devDependencies": {}
+}
