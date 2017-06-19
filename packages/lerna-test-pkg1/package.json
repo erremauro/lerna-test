@@ -1,6 +1,7 @@
 {
   "private": true,
   "name": "lerna-test-pkg1",
+  "main": "index.js",
   "dependencies": {},
   "devDependencies": {}
 }
